@@ -1,0 +1,102 @@
+{
+  "title": "LESCC Living Archive & Anthropology Operating System",
+  "core_concept": {
+    "instrument": "Community-Run Living Archive",
+    "dual_purpose": "Serves simultaneously as a record of neighborhood living culture for residents and an ongoing evidence engine for NYC Parks bid scoring and operational compliance.",
+    "pitch_line": "LESCC doesn't just host culture, it keeps a running record of how the neighborhood's cultures actually live. That record shapes the programming, earns Parks' fee, and protects the people it records."
+  },
+  "archive_operations": {
+    "paid_community_ethnographers": [
+      {
+        "group": "Chinese Elders & Families",
+        "language": "Cantonese & Mandarin"
+      },
+      {
+        "group": "Loisaida Community",
+        "language": "Spanish & English",
+        "heritage": "Puerto Rican & Dominican"
+      },
+      {
+        "group": "Jewish Heritage",
+        "language": "English"
+      },
+      {
+        "group": "Artist Community",
+        "language": "English"
+      },
+      {
+        "group": "Youth Practitioners",
+        "partnerships": [
+          "Girls Club",
+          "LES Yearbook"
+        ],
+        "language": "English & Spanish"
+      }
+    ],
+    "recorded_cultural_assets": [
+      "Oral histories",
+      "Shared neighborhood cultural calendar",
+      "Map of living cultural places (churches, mahjong parlors, botánicas, bakeries, galleries, social clubs)",
+      "Foodways and legacy culinary practices"
+    ],
+    "accessibility_languages": [
+      "Cantonese",
+      "Mandarin",
+      "Spanish",
+      "English"
+    ],
+    "hub_integration": "Storefront rotations, booking desk, and public space layouts are directly informed by archive findings rather than top-down assumptions."
+  },
+  "rfp_scoring_alignment": [
+    {
+      "criterion": "Operator Experience",
+      "living_anthropology_answer": "Leverages the deep operational track record of established partner organizations (Loisaida Inc., Tenement Museum, University Settlement, Lower East Side Girls Club).",
+      "source_citation": "LESCC Team & Community Partner Directory"
+    },
+    {
+      "criterion": "Pricing & Public Benefit",
+      "living_anthropology_answer": "Structures free and low-cost access calibrated to archive data on local poverty rates (21%) and limited English proficiency (24%).",
+      "source_citation": "Neighborhood Demographic Profile (21% poverty rate; 24% limited English proficiency)"
+    },
+    {
+      "criterion": "Capital Investment",
+      "living_anthropology_answer": "Combines physical restoration capital for the Allen Street building with the creation of a permanent, living public archive asset.",
+      "source_citation": "Allen Street Concession Building Scope"
+    },
+    {
+      "criterion": "Design & Public Space",
+      "living_anthropology_answer": "Co-designed with community groups, with physical layouts directly shaped by documented cultural practices.",
+      "source_citation": "Community Archive Co-Design Framework"
+    },
+    {
+      "criterion": "Sustainability & Performance",
+      "living_anthropology_answer": "Ensures cultural continuity through annual quantitative and qualitative measurement and program renewal.",
+      "source_citation": "LESCC Closed Data Loop Audit System"
+    }
+  ],
+  "governance_and_ownership": {
+    "governing_body": "Cultural Council with designated seats for each community group",
+    "data_sovereignty": "Communities own their records; strict consent protocol required; zero data extraction for commercial marketing."
+  },
+  "strategic_tension_resolutions": {
+    "food_culture_integration": {
+      "tension": "Arguing food vendors are unnecessary alienates local culinary culture and creates vendor opposition.",
+      "resolution": "Reframing the argument from 'food vendors unnecessary' to 'generic commercial concessions unnecessary.' Local culinary makers (e.g., Congee Village, Chinese bakeries, Empanada Mama, Porto Rico Coffee) are integrated as cultural practitioners, guest roasters, and supply partners within a 321-vendor neighborhood context.",
+      "source_citation": "Local Commercial Inventory (321 F&B vendors in block radius)"
+    },
+    "anti_displacement_framework": {
+      "tension": "Culture-led commercial uplift risks inflating rents and displacing the long-term elders, artists, and legacy merchants celebrated by the hub.",
+      "resolution_mechanisms": [
+        {
+          "mechanism": "Cultural Continuity Fund",
+          "description": "Allocates a fixed percentage of commercial coalition pledges into a dedicated fund supporting legacy businesses and cultural practitioners."
+        },
+        {
+          "mechanism": "Dual-Metric Tracking",
+          "description": "Measures displacement indicators (legacy business closures, storefront vacancy rates, commercial rent spikes) alongside economic uplift metrics, reporting both annually to NYC Parks."
+        }
+      ],
+      "source_citation": "LESCC Merchant Uplift & Anti-Displacement Dashboard"
+    }
+  }
+}
